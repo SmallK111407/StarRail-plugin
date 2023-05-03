@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "huahuo0423",
+      "name": "huahuo0423",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132376352?v=4",
+      "profile": "https://github.com/huahuo0423",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "StarRail-plugin",
+  "projectOwner": "SmallK111407"
+}
